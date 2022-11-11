@@ -17,7 +17,7 @@ Convolutional neural network classifies data based on activity of users in socia
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![P5](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/threejs-ED225D?style=for-the-badge&logo=threedotjs&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/threejs-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
