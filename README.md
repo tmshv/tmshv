@@ -49,6 +49,15 @@ I'm passionate about new technologies [challenges]. That's why in my spare time 
 ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 
+
+## Education
+
+- Bachelor's Degree in Architecture
+- Master's Degree in Data Science. You can see my thesis [here](https://github.com/tmshv/master/tree/master/diploma)
+
+
+--- 
+
 Follow me on Kaggle: [@update](https://kaggle.com/update)
 
 Let's work together!
