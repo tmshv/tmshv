@@ -67,6 +67,10 @@ I developed the service that provides automation solution for architects. It aut
 
 I launched a Geo Informational System web service. This platform helps to collect opinions of citizens, analyse and visualize data. Also this is a general purpose GIS application.
 
+### Nitka
+
+I developed a program to help artists to transorm a portrait images to String Art.
+The core part of this soft is [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) implemented from scratch.
 
 ### Yandex
 
