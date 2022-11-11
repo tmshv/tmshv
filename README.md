@@ -69,7 +69,7 @@ I launched a Geo Informational System web service. This platform helps to collec
 
 ### Nitka
 
-I developed a program to help artists to transorm a portrait images to String Art.
+I developed a program to help artists to transform a portrait images to String Art.
 The core part of this soft is [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) implemented from scratch.
 
 ### Yandex
