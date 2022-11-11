@@ -65,7 +65,7 @@ I developed the service that provides automation solution for architects. It aut
 
 ### [Mesto.io](https://unit4.io/mesto)
 
-I launched Geo Informational System web service. This platform helps to collect opinions of citizens, analyse and visualize data.
+I launched a Geo Informational System web service. This platform helps to collect opinions of citizens, analyse and visualize data. Also this is a general purpose GIS application.
 
 
 ### Yandex
