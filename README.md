@@ -1,6 +1,6 @@
 # tmshv
 
-Hi, my name is Roman. I'm a Full-Stack Software Engineer.
+Hi, my name is Roman. I'm a product-oriented Full-Stack Software Engineer.
 
 My passion is new challenges. In my spare time I do open source projects.
 
@@ -52,6 +52,24 @@ Convolutional neural network classifies data based on activity of users in socia
 ![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+## Projects
+
+### [Sisu service](https://unit4.io/sisu)
+
+I developed the service that provides automation solution for architects. It automates the production of drawings. It helps architects do not waste time on routine tasks and devote it to their creative work.
+
+
+### [Mesto.io](https://unit4.io/mesto)
+
+I launched Geo Informational System web service. This platform helps to collect opinions of citizens, analyse and visualize data.
+
+
+### Yandex
+
+As part of Yandex team I worked on an internal dashboard of Customer Support Employee.
+My personal challenge was to keep code base in an up-to-date state. So my proposition was to upgrade this project to React framework and I did it.
 
 
 ## Education
