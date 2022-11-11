@@ -2,7 +2,11 @@
 
 Hi, my name is Roman. I'm a Full-Stack Software Engineer.
 
-I'm passionate about new technologies [challenges]. That's why in my spare time I do open source projects.
+My passion is new challenges. In my spare time I do open source projects.
+
+Currently I'm working on the development of Neural Network.
+The main goal of the project is to help architects and urban analysts to find popular public city spaces.
+Convolutional neural network classifies data based on activity of users in social networks.
 
 ## My Core Stack
 
