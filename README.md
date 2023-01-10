@@ -41,17 +41,24 @@ Convolutional neural network classifies data based on activity of users in socia
 ![numpy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-7A00CC.svg?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+## I worked with
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ## I also interested in
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-8D46E7?style=for-the-badge&logo=astro&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-469ea2?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-FFFFFF?style=for-the-badge&logo=Matrix&logoColor=black)
 
