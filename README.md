@@ -27,7 +27,6 @@ Convolutional neural network classifies data based on activity of users in socia
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -51,7 +50,9 @@ Convolutional neural network classifies data based on activity of users in socia
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F1941C?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-02027D?style=for-the-badge&logo=lua&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
