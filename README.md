@@ -48,7 +48,7 @@ Convolutional neural network classifies data based on activity of users in socia
 ![Qgis](https://img.shields.io/badge/Qgis-8dad25?style=for-the-badge&logo=qgis&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-e87c0c?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-011d34?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=011d34)
 ![strapi](https://img.shields.io/badge/strapi-11107a?style=for-the-badge&logo=strapi&logoColor=white)
 ![tauri](https://img.shields.io/badge/tauri-A23A37?style=for-the-badge&logo=tauri&logoColor=white)
 
