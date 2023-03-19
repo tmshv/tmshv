@@ -54,6 +54,7 @@ Convolutional neural network classifies data based on activity of users in socia
 ![Lua](https://img.shields.io/badge/Lua-02027D?style=for-the-badge&logo=lua&logoColor=white)
 ![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![Cesium](https://img.shields.io/badge/Cesium-6f9c48?style=for-the-badge&logo=cesium&logoColor=white)
 
 
 ## I also interested in
