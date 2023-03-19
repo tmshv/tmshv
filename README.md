@@ -45,11 +45,11 @@ Convolutional neural network classifies data based on activity of users in socia
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![Rhino](https://img.shields.io/badge/Rhino-A23A37?style=for-the-badge&logo=rhinoceros&logoColor=white)
-![Qgis](https://img.shields.io/badge/Qgis-A23A37?style=for-the-badge&logo=qgis&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A23A37?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-A23A37?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-A23A37?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![strapi](https://img.shields.io/badge/strapi-A23A37?style=for-the-badge&logo=strapi&logoColor=white)
+![Qgis](https://img.shields.io/badge/Qgis-8dad25?style=for-the-badge&logo=qgis&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-e87c0c?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-011d34?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![strapi](https://img.shields.io/badge/strapi-11107a?style=for-the-badge&logo=strapi&logoColor=white)
 ![tauri](https://img.shields.io/badge/tauri-A23A37?style=for-the-badge&logo=tauri&logoColor=white)
 
 
