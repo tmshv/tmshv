@@ -40,7 +40,7 @@ Convolutional neural network classifies data based on activity of users in socia
 ![numpy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![VIM](https://img.shields.io/badge/VIM-7A00CC.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-7A00CC.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
