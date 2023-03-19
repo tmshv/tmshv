@@ -67,6 +67,10 @@ Convolutional neural network classifies data based on activity of users in socia
 
 ## Projects
 
+### [Sphere](https://github.com/tmshv/sphere)
+
+I am working on the open source Desktop GIS application. Built on [tauri](http://tauri.app/) framework. PR's are welcome
+
 ### [Sisu service](https://unit4.io/sisu)
 
 I developed the service that provides automation solution for architects. It automates the production of drawings. It helps architects do not waste time on routine tasks and devote it to their creative work.
