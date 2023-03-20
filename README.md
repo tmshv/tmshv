@@ -63,13 +63,13 @@ Convolutional neural network classifies data based on activity of users in socia
 ![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Cesium](https://img.shields.io/badge/Cesium-6f9c48?style=for-the-badge&logo=cesium&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 
 ## I also interested in
 
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Astro](https://img.shields.io/badge/Astro-8D46E7?style=for-the-badge&logo=astro&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-469ea2?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-FFFFFF?style=for-the-badge&logo=Matrix&logoColor=black)
 
