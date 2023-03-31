@@ -1,12 +1,10 @@
 # tmshv
 
-Hi, my name is Roman. I'm a product-oriented Full-Stack Software Engineer.
+Hello! I'm Roman, a Full-Stack Software Engineer with 15 years of experience in Python and TypeScript.
+I have a wide range of skills, including Frontend, Backend, DevOps, Machine Learning, and GIS.
 
-My passion is new challenges. In my spare time I do open source projects.
+I'm passionate about working on innovative projects that challenge the status quo and make a meaningful impact on people's lives.
 
-Currently I'm working on the development of Neural Network.
-The main goal of the project is to help architects and urban analysts to find popular public city spaces.
-Convolutional neural network classifies data based on activity of users in social networks.
 
 ## My Core Stack
 
@@ -76,28 +74,32 @@ Convolutional neural network classifies data based on activity of users in socia
 
 ## Projects
 
+During my career, I have contributed to various projects:
+
 ### [Sphere](https://github.com/tmshv/sphere)
 
-I am working on the open source Desktop GIS application. Built on [tauri](http://tauri.app/) framework. PR's are welcome
+An open-source Desktop GIS application built on the [tauri](http://tauri.app/) framework. I welcome PRs to enhance its capabilities.
+
+
 
 ### [Sisu service](https://unit4.io/sisu)
 
-I developed the service that provides automation solution for architects. It automates the production of drawings. It helps architects do not waste time on routine tasks and devote it to their creative work.
+A service that provides automation solutions for architects, streamlining the production of drawings and fostering creativity.
 
 
 ### [Mesto.io](https://unit4.io/mesto)
 
-I launched a Geo Informational System web service. This platform helps to collect opinions of citizens, analyse and visualize data. Also this is a general purpose GIS application.
+A Geo informational system web service that enables the collection, analysis, and visualization of citizens' opinions as well as functioning as a general-purpose GIS application.
+
 
 ### Nitka
 
-I developed a program to help artists to transform a portrait images to String Art.
+A program that helps artists transform portrait images into String Art.
 The core part of this soft is [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) implemented from scratch.
 
 ### Yandex
 
-As part of Yandex team I worked on an internal dashboard of Customer Support Employee.
-My personal challenge was to keep code base in an up-to-date state. So my proposition was to upgrade this project to React framework and I did it.
+As part of the Yandex team, I upgraded an internal Customer Support Employee dashboard by migrating the project to the React framework.
 
 
 ## Education
@@ -110,4 +112,7 @@ My personal challenge was to keep code base in an up-to-date state. So my propos
 
 Follow me on Kaggle: [@update](https://kaggle.com/update)
 
-Let's work together!
+I enjoy collaborating with cross-functional teams and mentoring aspiring software engineers.
+
+**This text was crafted with the assistance of GPT-4, an advanced language model by OpenAI.**
+
