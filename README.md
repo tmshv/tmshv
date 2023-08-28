@@ -52,7 +52,7 @@ I'm passionate about working on innovative projects that challenge the status qu
 ![strapi](https://img.shields.io/badge/strapi-11107a?style=for-the-badge&logo=strapi&logoColor=white)
 ![tauri](https://img.shields.io/badge/tauri-A23A37?style=for-the-badge&logo=tauri&logoColor=white)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tmshv&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&exclude_repo=vexx&hide=jupyter%20notebook&langs_count=10&border_color=000000&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmshv&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&exclude_repo=vexx&hide=jupyter%20notebook&langs_count=10&border_color=000000&card_width=400)
 
 ## I worked with
 
