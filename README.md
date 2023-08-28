@@ -14,16 +14,18 @@ I'm passionate about working on innovative projects that challenge the status qu
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![P5](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/threejs-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=black)
+![P5](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-000000?style=for-the-badge&logo=mdx&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-1E32AA?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -53,9 +55,9 @@ I'm passionate about working on innovative projects that challenge the status qu
 
 ## I worked with
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F1941C?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-02027D?style=for-the-badge&logo=lua&logoColor=white)
 ![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
