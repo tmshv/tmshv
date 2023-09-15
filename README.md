@@ -3,7 +3,7 @@
 Hello! I'm Roman, a Full-Stack Software Engineer with 15 years of experience in Python and TypeScript.
 I have a wide range of skills, including Frontend, Backend, DevOps, Machine Learning, and GIS.
 
-I'm passionate about working on innovative projects that challenge the status quo and make a meaningful impact on people's lives.
+My passion is new challenges. In my spare time I do open source projects.
 
 
 ## My Core Stack
