@@ -67,14 +67,6 @@ My passion is new challenges. In my spare time I do open source projects.
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 
-## I also interested in
-
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Astro](https://img.shields.io/badge/Astro-8D46E7?style=for-the-badge&logo=astro&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-469ea2?style=for-the-badge&logo=ipfs&logoColor=white)
-![Matrix](https://img.shields.io/badge/matrix-FFFFFF?style=for-the-badge&logo=Matrix&logoColor=black)
-
-
 ## Projects
 
 During my career, I have contributed to various projects:
