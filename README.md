@@ -55,10 +55,9 @@ My passion is new challenges. In my spare time I do open source projects.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmshv&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&exclude_repo=vexx&hide=jupyter%20notebook&langs_count=10&border_color=000000&card_width=400)
 
-## I worked with
+## I've worked with
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WASM](https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F1941C?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-02027D?style=for-the-badge&logo=lua&logoColor=white)
 ![Kafka](https://img.shields.io/badge/KAFKA-231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
