@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "echo \"hi\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,14 +18,5 @@
   "bugs": {
     "url": "https://github.com/tmshv/tmshv/issues"
   },
-  "homepage": "https://github.com/tmshv/tmshv#readme",
-  "dependencies": {
-    "next": "^12.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "devDependencies": {
-    "@types/react": "^17.0.33",
-    "typescript": "^4.4.4"
-  }
+  "homepage": "https://github.com/tmshv/tmshv#readme"
 }
