@@ -1,0 +1,42 @@
+name: Update README stats
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # runs daily at midnight UTC
+    workflow_dispatch: # allows manual trigger
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Generate top languages card
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: top-langs
+                  options: >-
+                      username=tmshv
+                      &layout=compact
+                      &bg_color=000000
+                      &icon_color=ffffff
+                      &text_color=ffffff
+                      &title_color=ffffff
+                      &exclude_repo=vexx
+                      &hide=jupyter%20notebook
+                      &langs_count=10
+                      &border_color=000000
+                      &card_width=400
+                  path: profile/top-langs.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Commit cards
+              run: |
+                  git config user.name "Roman Timashev"
+                  git config user.email "roman@tmshv.ru"
+                  git add profile/top-langs.svg
+                  git commit -m "chore: update top langs card" || echo "No changes"
+                  git push
