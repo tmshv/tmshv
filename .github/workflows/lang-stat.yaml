@@ -18,18 +18,7 @@ jobs:
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: top-langs
-                  options: >-
-                      username=tmshv
-                      &layout=compact
-                      &bg_color=000000
-                      &icon_color=ffffff
-                      &text_color=ffffff
-                      &title_color=ffffff
-                      &exclude_repo=vexx
-                      &hide=jupyter%20notebook
-                      &langs_count=10
-                      &border_color=000000
-                      &card_width=400
+                  options: "username=${{ github.repository_owner }}&layout=compact&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&exclude_repo=vexx&hide=jupyter%20notebook&langs_count=10&border_color=000000&card_width=400"
                   path: profile/top-langs.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
